@@ -1,0 +1,680 @@
+.container-heading{
+    height: 140px;
+    width: 100%;
+    background-color:#363636;
+
+}
+.img-heading{
+    width:110px;
+    height:90px;
+    margin-top: 20px;
+    margin-left:45%;
+
+}
+.content{
+    display: flex;
+    justify-content: center;
+    gap:36px;
+    margin: 20px 0px;
+    font-size: 16px;
+    color:#363636;
+    transition: color 0.3s ease;
+
+}
+.content:hover{
+    color:#5b524e
+
+}
+.home-container{
+    background-image: url("https://hillhouse-sgcondo.com/wp-content/uploads/2025/04/c1380a78ba854aaba9391b9c67f39e14.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    padding-top: 80px;
+
+}
+.home-text{
+    width:90%;
+    height: 140px;
+    text-align: center;
+    margin:auto;
+}
+.home-heading{
+    color:white;
+    font-size: 25px;
+    font-weight: bold;
+}
+.home-para{
+    font-size: 16px;
+    color:white;
+}
+.home-cards{
+    display: flex;
+    justify-content: center;
+    gap:30px;
+}
+.price-list{
+    background-color:#5b524e;
+    color:white;
+    height:37px;
+    width:150px;
+    text-align: center;
+    padding-top: 8px;
+    border-radius: 5px;
+}
+.brochure-card{
+    background-color:white;
+    color:#5b524e;
+    height: 37px;
+    width:150px;
+    text-align: center;
+    padding-top: 8px;
+    border-radius: 5px;
+}
+.home-info{
+    color: white;
+    font-size: 12px;
+    margin-top: 140px;
+   text-align: center;
+    font-weight: bold;
+}
+.home-details{
+    display:flex;
+    background-color: #e4dcc9;
+
+}
+.line{
+    height: 140px;
+    color: black;
+    
+}
+.home-details1{
+    display: flex;
+    flex-direction: row;
+}
+.home-details-container{
+    background-color: #e4dcc9;
+    color:#5b524e;
+    width:400px;
+    height:60px;
+    text-align: center;
+    padding-top: 10px;
+    border-right: 1px solid black;
+    
+}
+.home-details2-container{
+    background-color: #e4dcc9;
+    color:#5b524e;
+    width:400px;
+    height:60px;
+    text-align: center;
+    padding-top: 10px;
+}
+.detail-text{
+    color:black;
+    font-weight: bold;
+}
+.home-flats-container{
+    color: white;
+   background-color: #363636;
+    width:300px;
+    height: 60px;
+    text-align: center;
+    padding-top: 10px;
+    
+}
+.location-info-container{
+    margin-left: 150px;
+    margin-top: 60px;
+    margin-bottom: 100px; 
+    font-size: 18px;
+    display:flex;
+    gap:100px;
+    width:82%;
+    
+}
+.image-container{
+    display: flex;
+    gap: 50px;
+    
+}
+.img-house{
+    width: 300px;
+    height: 130px;
+
+}
+.location-container{
+    font-size: 14px;
+    width:360px;
+
+}
+.location-details-container1{
+    font-size: 14px;
+    color: #494644;
+    line-height: 26px;
+    margin-top: 40px;
+   
+}
+.location-details-container{
+    font-size: 14px;
+    color: #494644;
+    line-height: 26px;
+   
+}
+
+.house-img{
+    height: 510px;
+    width:350px;
+    margin-top: 30px;
+}
+.image-para{
+    font-size: 10px;
+}
+.guide-container{
+    display: flex;
+    gap: 157px;
+    margin-top: 70px;
+    background-color: #5f5858;
+    width:84%;
+    height:280px;
+    margin: auto;
+}
+.house-logo-img-container{
+    margin-left: 200px;
+    margin-top: 60px;
+}
+.house-logo-img{
+    width: 200px;
+    height: 160px;
+
+}
+.guide-para{
+    font-size: 16px;
+}
+.guide-text{
+    color: white;
+}
+.brochure-card2{
+    background-color:white;
+    color:#5b524e;
+    height: 30px;
+    width:140px;
+    text-align: center;
+    padding-top: 8px;
+    border-radius: 5px;
+}
+.houses-location-container{
+    margin-top: 90px;
+    margin-left: 110px;
+    height:1200px;
+   
+}
+.hill-house-facility{
+    display: flex;
+    gap: 10px;
+    width:84%;
+    height:1000px;  
+
+}
+.house-facilities-img{
+    width: 560px;
+    height: 300px;   
+}
+.heading-house{
+    font-size: 20px;
+    color: #363636;
+   /* margin-top: 90px; */
+   font-weight: 300;;
+}
+.facilities-name{
+    font-size: 14px;
+    color: #5f5858;
+    margin-bottom: 40px;
+
+}
+.location-surround-container{
+    height:1450px;
+    background-color: rgba(228,220,201,255);
+   
+}
+.location-inspired-container{
+
+    text-align: center;
+    align-items: center;
+    margin:0px 80px;
+    padding-top: 20px;
+    
+   
+   
+}
+.location-images{
+    display: flex;
+    gap: 20px;
+    margin-top: 50px;
+}
+.img-location{
+    height:300px;
+    width:342px;
+}
+.img-location-b{
+    width: 342px;
+    height: 300px;
+   
+}
+.location-inspired2-container{
+    height:650px;
+    display:flex;
+    gap: 25px;
+   padding-left: 130px;
+   text-align: center;
+}
+.home-type1-container{
+    width: 520px;
+    height: 560px;
+    margin-top: 80px;
+    
+    
+}
+.img-location-box1{
+  margin-left:55px;
+
+}
+.home-containers1{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+.img-location-box2{
+    display: flex;
+    flex-direction: row;
+    gap:20px
+}
+.img-location2{
+    width:520px;
+    height: 280px;
+    margin-top: 60px;
+}
+.img-location3{
+    width:520px;
+    height: 280px;
+    margin-top: 40px;
+    margin-bottom: 60px;
+
+   
+}
+.hometypes-para{
+    font-size: 15px;
+    line-height: 26px;
+    
+    color:#405080
+}
+.home-type2-container{
+    width: 520px;
+    height: 620px;
+}
+.home-type3-container{
+    display: flex;
+    flex-direction: row;
+    height: 400px;
+    padding-left: 130px;
+    gap:10px;
+}
+.home-img-container{
+    width: 260px;
+    height: 200px;
+    margin-top: 20px;
+}
+.home-container2{
+    background-image: url("https://hillhouse-sgcondo.com/wp-content/uploads/2025/04/c1380a78ba854aaba9391b9c67f39e14.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    padding-top: 80px;
+   
+
+
+}
+.home-text2{
+    width:90%;
+    height: 140px;
+    text-align: center;
+    margin:auto;
+}
+.home-heading2{
+    color:white;
+    font-size: 25px;
+    font-weight: bold;
+}
+.home-para2{
+    font-size: 16px;
+    color:white;
+}
+.home-info2{
+    color: white;
+    font-size: 12px;
+    margin-top: 140px;
+   text-align: center;
+    font-weight: bold;
+}
+.home-cards2{
+    display: flex;
+    justify-content: center;
+    gap:30px;
+}
+.brochure-card3{
+    background-color:white;
+    color:#5b524e;
+    height: 37px;
+    width:150px;
+    text-align: center;
+    padding-top: 8px;
+    border-radius: 5px;
+}
+/* Tablet: max-width 1024px */
+@media (max-width: 1024px) {
+    .img-heading {
+        margin-left: 40%;
+    }
+
+    .content {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .home-cards {
+        flex-direction: row;
+        align-items: center;
+        margin-top: 30px;
+    }
+
+    .location-info-container {
+        flex-direction: column;
+        margin-left: 0;
+        align-items: center;
+    }
+
+    .guide-container {
+        flex-direction: column;
+        height: auto;
+        padding: 20px;
+    }
+
+    .hill-house-facility {
+        flex-direction: column;
+        height: auto;
+        align-items: center;
+    
+    }
+
+    .location-inspired2-container {
+        flex-direction: column;
+        height: auto;
+        padding-left: 0;
+        align-items: center;
+    }
+
+    .home-type3-container {
+        flex-direction: column;
+        height: auto;
+        padding-left: 0;
+        align-items: center;
+    }
+    .location-images {
+        flex-direction: column;
+        align-items: center;
+    }
+    .houses-location-container{
+        margin-left: 0;
+        height: auto;
+        align-items: center;
+    }
+    .location-surround-container{
+        height: auto;
+        padding: 20px;
+        margin-top: 0;
+    }
+}
+
+/* Mobile: max-width 768px */
+@media (max-width: 768px) {
+    .container-heading {
+        height: auto;
+    }
+
+    .img-heading {
+        width: 90px;
+        align-items: center;
+    }
+
+    .content {
+        font-size: 14px;
+    }
+
+    .home-container
+    {
+        height: auto;
+        padding-top: 60px;
+    }
+    .home-text{
+        height: auto;
+    }
+
+    .home-heading {
+        font-size: 20px;
+    }
+
+    .home-para {
+        font-size: 15px;
+        font-weight: 400;
+    }
+    .home-cards{
+        flex-direction: column;
+        gap:10px;
+        margin-top: 60px;
+        margin-bottom: 40px;
+
+    }
+    .price-list,
+    .brochure-card {
+        width: 100px;
+        font-size: 12px;
+        height: 27px;
+        text-align: center;
+        
+    }
+
+    .location-info-container {
+        width: 100%;
+        flex-direction: column;
+        gap: 3px;
+    }
+    .para{
+        text-align: center;
+    }
+
+    .img-house {
+        width: 100%;
+        height: auto;
+    }
+    .image-container {
+        margin: 0px 20px;
+    }
+    .houses-location-container{
+        width:auto;
+        text-align: center;
+        height: auto;
+        margin-left: 0;
+    }
+    .hill-house-facility{
+        flex-direction: column;
+        gap: 20px;
+        height: auto;
+        align-items: center;
+        width:100%;
+    }
+    
+   
+    .house-facilities-img{
+        width: 100%;
+        height: auto;
+        margin-top: 20px;
+    }
+
+    .house-img {
+        width: 100%;
+        height: auto;
+        align-items: center;
+    }
+
+    .house-logo-img {
+        width: 150px;
+        height: auto;
+        align-items: center;
+    }
+    .house-logo-img-container {
+        margin-left: 0;
+        margin-top: 20px;
+    }
+    
+    .location-images{
+        flex-direction: column;
+    }
+
+    .location-inspired2-container,
+    .home-type3-container {
+        flex-direction: column;
+        padding-left: 0;
+        align-items: center;
+    }
+
+    .home-type1-container,
+    .home-type2-container {
+        width: auto;
+        height: auto;
+        margin-top: 40px;
+    }
+
+    .img-location2,
+    .img-location3 {
+        width: 95%;
+        height: auto;
+    }
+
+    .guide-container {
+        flex-direction: column;
+        gap: 20px;
+        height: auto;
+        padding-top: 20px;
+        width: auto;
+        align-items: center;
+       
+    }
+    .guide-text{
+        font-size: 16px;
+        text-align: center;
+      
+    }
+    .brochure-card2{
+        margin:auto;
+    }
+    .guide-heading{
+        font-size: 20px;
+    }
+    .location-surround-container{
+        height: auto;
+        padding-top: 20px;
+
+    }
+    .location-inspired-container{
+        margin :0px;
+    }
+    .brochure-card3{
+        width: 100px;
+        font-size: 12px;
+        align-items: center;
+        margin-top: 20px;
+        height: 30px;
+    }
+    .home-text2{
+        height: auto;
+    }
+    .home-info2{
+        margin-top: 0px;
+    }
+    .home-info{
+        margin-top: 0px;
+    }
+   .location-container-heading{
+    font-size: 18px;
+    font-weight: 400px;
+   }
+   .hometypes-para{
+    font-size: 16px;
+   }
+   .img-location-box1{
+    width: auto;
+    margin-left: 0px;
+   }
+   .img-location{
+    width: 95%;
+    height: 100%;
+   }
+  .img-location-b{
+    width:100%;
+    height: 100%;
+  }
+  .img-location-box2{
+    width:auto;
+    height: auto;
+    margin:0px 10px;
+  }
+  .home-container2{
+    height:auto;
+    padding-top: 60px;
+  }
+    .home-containers1{
+        flex-direction: row;
+        gap:5px;
+        width: auto;
+        height: auto;
+        padding:0px 10px;
+       
+    }
+    .home-img-container{
+        width: 100%;
+        height: auto;
+        margin-top: 20px;
+    }
+    .cbd-heading{
+        font-size: 18px;
+    }
+    .orchard-heading{
+        font-size: 18px;
+    }
+    .home-details{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        width: 1005;
+        height: auto;
+        margin-top: 0px;
+       
+    }
+    .home-details1{
+        display: flex;
+        flex-direction: row;
+        
+    }
+    .home-flats-container{
+        width: 100%;
+        height:40px;
+        background-color: #363636;
+        font-weight: bold;
+        align-items: center;
+       
+    
+    }
+    .line{
+        height: 100px;
+    }
+}
